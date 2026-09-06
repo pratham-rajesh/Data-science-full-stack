@@ -20,3 +20,5 @@ This repository contains full-stack replications of the data science experiments
 | 11 | Enterprise DS Audit | [Watch](https://youtube.com/watch?v=PLACEHOLDER_11) | [Repo](https://github.com/YOUR_USERNAME/PLACEHOLDER_11) |
 | 12 | TimePulse / Time Series Forecasting | [Watch](https://youtube.com/watch?v=PLACEHOLDER_12) | [Repo](https://github.com/YOUR_USERNAME/PLACEHOLDER_12) |
 | 13 | CRISP-DM NYC Taxi Audit Platform | [Watch](https://youtube.com/watch?v=PLACEHOLDER_13) | [Repo](https://github.com/YOUR_USERNAME/PLACEHOLDER_13) |
+| 14 | AutoGluon Multimodal Suite | [Watch](https://youtube.com/watch?v=PLACEHOLDER_14) | [Repo](https://github.com/YOUR_USERNAME/PLACEHOLDER_14) |
+| 15 | SPY SOTA TimeSeries Alpha | [Watch](https://youtube.com/watch?v=PLACEHOLDER_15) | [Repo](https://github.com/YOUR_USERNAME/PLACEHOLDER_15) |
